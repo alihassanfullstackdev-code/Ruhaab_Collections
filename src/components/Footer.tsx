@@ -54,11 +54,6 @@ const Footer: React.FC = () => {
            </div>
         </div>
       </div>
-
-      <div className="mt-48 pt-12 border-t border-paper/5 flex flex-col md:flex-row justify-between items-center gap-12">
-         <p className="text-[9px] uppercase tracking-[0.5em] text-paper/20">© 2025 Rohaab Collections — Royal Minimalism</p>
-         <p className="text-[9px] uppercase tracking-[0.5em] text-paper/20">Design by Antigravity Ateliers</p>
-      </div>
     </footer>
   );
 };
